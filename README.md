@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xRecruiter, Technical Recruiter at Offchain Labs, the creators of the Layer 2 scaling solution Arbitrum 
-- 👀 I’m interested in learning how to build Dapps, Layer 2 scaling solutions, Finality  
+- 👀 I’m interested in learning how to build Dapps, Layer 2 scaling solutions, MEV, Game Theory  
 - 🌱 I’m currently learning Solidity, AWS Infrastructure 
 - 📫 How to reach me - click on the left side to my twitter and linkedin (: 
 
